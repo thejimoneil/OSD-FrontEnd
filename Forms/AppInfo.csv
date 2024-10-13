@@ -1,0 +1,9 @@
+Name,DisplayName,Tag,Visibility
+wpfchkApp01,Notepad++,App01,Visible
+wpfchkApp02,7Zip,App02,Visible
+wpfchkApp03,VSCode,App03,Visible
+wpfchkApp04,Discord,App04,Visible
+wpfchkApp05,Teams,App05,Visible
+wpfchkApp06,Zoom,App06,Visible
+wpfchkApp07,App07,App07,Visible
+wpfchkApp08,FileZilla,App08,Hidden
