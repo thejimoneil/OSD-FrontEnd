@@ -2,6 +2,9 @@
 Another front end application for OSD using XML and Powershell. Branded for Midwest Management Summit Flamingo Edition. 
 
 ![Options Tab](Screenshots/Options.jpg)
+![Options Tab](Screenshots/Variables.jpg)
+![Options Tab](Screenshots/Tools.jpg)
+![Options Tab](Screenshots/About.jpg)
 
 Run ths at the begging of your OSD Task Sequences to set common and custom Task Sequnce Envirnment viaribles. 
 
